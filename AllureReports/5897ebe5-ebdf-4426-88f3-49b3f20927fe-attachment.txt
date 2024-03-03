@@ -1,0 +1,9 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:149 The geckodriver version (0.33.0) detected in PATH at C:\Users\HP\AppData\Local\Programs\Python\Python311\Scripts\geckodriver.exe might not be compatible with the detected firefox version (122.0.0.8783); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:26 Test_case test_addCustomer_003 is started
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:28 Opening browser and navigating to demo_nop_com
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:30 Entering email - admin@yourstore.com
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:32 Entering Password - admin
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:34 Click on login button
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:37 Click on Customer Menu
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:39 Click on Customer Sub Menu
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:41 Click on Add Customer
